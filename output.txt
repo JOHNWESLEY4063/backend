@@ -1,0 +1,12 @@
+PS C:\Users\peram\backend> npm run dev
+
+> backend@1.0.0 dev
+> nodemon index.js
+
+[nodemon] 3.1.9
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,cjs,json
+[nodemon] starting `node index.js`
+Server running on port 3000
+Connected to MongoDB Successfully
